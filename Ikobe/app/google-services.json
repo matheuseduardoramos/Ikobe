@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454751428891",
+    "project_id": "ikobe-1049d",
+    "storage_bucket": "ikobe-1049d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454751428891:android:c91bb6e6e0aa6446f773be",
+        "android_client_info": {
+          "package_name": "br.edu.uniaeso.ikobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvFcUN2CjD2cFUYWAl6gnUScwpdh4DTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

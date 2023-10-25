@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ikobe</string>
+    <string name="title_activity_form_login">FormLogin</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Criar Conta</string>
+    <string name="cadastro">Cadastre-se</string>
+    <string name="title_activity_form_cadastro">FormCadastro</string>
+</resources>
